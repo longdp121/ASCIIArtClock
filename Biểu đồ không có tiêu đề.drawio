@@ -1,20 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
-  <diagram name="Trang-1" id="Lm0A06srtPuTrAnA2U3A">
+  <diagram name="Trang-1" id="tWY1G5C9Jzgr7XDpd3K5">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Quản trị tài chính" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="8" width="182" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="Doanh thu" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="32" y="112" width="134" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
